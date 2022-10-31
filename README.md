@@ -1,5 +1,5 @@
 # fluffy-octo-eureka
-Codecademy projects form classes:
+Codecademy projects from classes:
 Learn Python 2
 Learn Python 3
 Machine Learning/AI Engineering Foundations
