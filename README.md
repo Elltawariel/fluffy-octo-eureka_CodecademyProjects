@@ -3,4 +3,6 @@ Codecademy projects from classes:
 Learn Python 2,
 Learn Python 3,
 Machine Learning/AI Engineering Foundations,
-Visualizing Data with Python
+Visualizing Data with Python, 
+Analyzing Data with Python, 
+Machine Learning Fundamentals
